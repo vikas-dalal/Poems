@@ -1,1 +1,5 @@
-blue berry blue berry how are you
+<<<<<<< HEAD
+blue berry blue berry how are you i am fine
+=======
+blue berry blue berry hello how are you
+>>>>>>> flowers
